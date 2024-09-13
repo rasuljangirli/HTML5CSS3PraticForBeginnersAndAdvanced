@@ -1,4 +1,4 @@
-## HTML5 CSS3 
+## HTML5 CSS3 başlanğıc səviyyədən iləri səviyyəyə qədər
 Medium hesabımda məqalələrimlə tanış olmaq üçün. [click et](https://medium.com/@rasuljangirli)
 
 
