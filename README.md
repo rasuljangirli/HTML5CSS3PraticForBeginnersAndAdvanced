@@ -25,7 +25,7 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
 
 * ### BOOTSTRAP SITE ONE - filename: bootstrapSite_one
 
-Bu proyekt əsasən HTML CSS bootstrap köməkliyi ilə hazırlanıb. 3 səhivədən ibarət bir proyektdir. Daxilindəki səhivələrin hər birində fərqli bir birinin bənzəri olmayan dizaynlar mövcuddur ki bu kodları təkrar işləmək istəyən şəxslərin daha möhkəm biliklərə sahib olmasına zəmin yaradır. Eyni zamanda proyktdə Əlaqə səhivəsində form və məkan məlumatları göstərilmişdir.
+Bu proyekt əsasən HTML CSS bootstrap köməkliyi ilə hazırlanmışdır. 3 səhivədən ibarət bir proyektdir. Səhivələrin hər birində fərqli, bir birinin bənzəri olmayan dizaynlar mövcuddur ki, bu kodları təkrar işləmək istəyən şəxslərin daha möhkəm biliklərə sahib olmasına zəmin yaradır. Eyni zamanda proyktdə Əlaqə səhivəsində form və məkan məlumatları göstərilmişdir. Ümumilikdə çox böyük proyekt olmasada içərisində bootstrap daha çox istifadə edilmişdir və bootsrap bilgisinin möhkəmlənməsinə dəstək verə biləcək bir proyektdir.
 
 ---
 
