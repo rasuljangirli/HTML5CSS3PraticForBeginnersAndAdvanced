@@ -6,7 +6,7 @@ Burada olan proyektlərdən ilhamlanaraq HTML CSS yazan dostlar öz proyetkləri
 
 *QEYD: Öncədən bunlar əlavə edilmişdi sadəcə ayrı ayrı repolarda olduğları üçün təbii olaraq repoların sayı çox olurdu və qarışıq görünürdü. Bu səbəbdən bir repoda hər birini toplamağ qərarına gəldim.*
 
-## REPO IÇƏRİSİNDƏ OLAN PROYEKTLƏR HAQQINDA MƏLUMAT AŞAĞIDA.
+### PROYEKTLƏR HAQQINDA MƏLUMAT AŞAĞIDA:
 
 
 * ### HOTEL SITE filename: hotelSite 
