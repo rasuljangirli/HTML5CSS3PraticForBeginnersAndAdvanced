@@ -1,8 +1,9 @@
 Salam hər vaxtınız xeyir olsun. Bu repomda çox əvvəllər işlədiyim sadə proyektlər mövcuddur.
 
-Burada olan proyektlərdən ilhamlanaraq ilk html css yazan dostlar öz proyetklərini yaza bilər.
+Burada olan proyektlərdən ilhamlanaraq HTML CSS yazan dostlar öz proyetklərini yaza bilər eyni zamanda HTML CSS-in dərinlikləri ilə tanış ola bilər. Repoda olan bəzi proyektlərdə əlavə olaraq JavaScript və Sass istifadə edilmişdir ki bunlar haqqında proyekt məlumatlarında yazılar var.
 
-Öncədən bunlar əlavə edilmişdi sadəcə ayrı ayrı repolarda olduğları üçün təbii olaraq repoların sayı çox olurdu və qarışıq görünürdü. Bu səbəbdən bir repoda hər birini toplamağ qərarına gəldim.
+
+QEYD: Öncədən bunlar əlavə edilmişdi sadəcə ayrı ayrı repolarda olduğları üçün təbii olaraq repoların sayı çox olurdu və qarışıq görünürdü. Bu səbəbdən bir repoda hər birini toplamağ qərarına gəldim.
 
 REPO IÇƏRİSİNDƏ OLAN PROYEKTLƏR HAQQINDA MƏLUMAT AŞAĞIDA.
 
