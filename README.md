@@ -13,7 +13,7 @@ Burada olan proyektlərdən ilhamlanaraq HTML CSS yazan dostlar öz proyetkləri
 
 Burada HTML5 CSS3 istifadə edilərək sadə site hazırlanmışdır. Bu proyekt əsasən flexBox və onun özəllikllərini mənimsəmək üçün əlverişlidir. Burada FlexBox-un flex-direction, flex-wrap, justify-content, align-items, align-self, grow, shrink, basis, align-content, gaps, flex margin kimi özəlliklərindən istifadə edilmişdir.
 
---
+
 * ### SPORT SİTE proyekti haqqında: filename: sportSite
 
 Bu proyektdə isə flex grid istifadə edilmişdir.flex grid daha çox flexBox kimi kiçik Componentlər içərisində deildə ümümi səhivəninin dizaynında istifadə edilmişdir ki grid daha çox bu yöndə əlverişli hesab edilir. Proyekt Responsive dizayn edilmişdir. CSS hissəsində rəng seçimlərinin idarə edilməsi üçün root və var istifadə edilmişdir ki bu proyekti incələmək artıq bir neçə addım atmış dostlar üçün çox gözəl örnəkdir deyə düşünürəm. Proyektin ana səhivəsində menyu hissəsində fərqli seçimlər var sadəcə test üçün home bölməsi işlənmişdir.
