@@ -17,7 +17,7 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
 
 * ### FREELANCER SİTE - filename: freelancerSite_SassandLess
 
-  Bu proyekt HTML5, CSS3 və qismən JavaScript-dən istifadə edir (Əgər başlanğıc səviyyədəsinizsə, JavaScript hissəsinə çox diqqət etməyə bilərsiniz). Proyektə kənardan əlavələr edildiyi üçün `package.json` faylı əlavə olunmuşdur və içərisində istifadə edilən texnologiyaları görə bilərsiniz. **JavaScript**, yalnız ana səhifədə istifadə edilmişdir və hazır kod olaraq əlavə edilmişdir. Ümumilikdə bu, geniş bir layihədir və burada olan kodları incələyərək öz layihələrinizi daha da inkişaf etdirə bilərsiniz.
+  Bu proyektdə HTML5, CSS3  qismən JavaScript və SCSS-dən istifadə edilmişdir (Əgər başlanğıc səviyyədəsinizsə, JavaScript hissəsinə çox diqqət etməyə bilərsiniz). Proyektə kənardan əlavələr edildiyi üçün `package.json` faylı əlavə olunmuşdur və içərisində istifadə edilən texnologiyaları görə bilərsiniz. **JavaScript**, yalnız ana səhifədə istifadə edilmişdir və hazır kod olaraq əlavə edilmişdir. Ümumilikdə bu, geniş bir layihədir və burada olan kodları incələyərək öz layihələrinizi daha da inkişaf etdirə bilərsiniz.
 
 * ### MOVIEAPP - filename: movieapp
 
