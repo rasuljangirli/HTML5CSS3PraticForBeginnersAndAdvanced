@@ -1,7 +1,7 @@
 ## HTML5 CSS3 başlanğıc səviyyədən irəli səviyyəyə qədər
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
 
-Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektlərini yaza, eyni zamanda HTML və CSS-in dərinlikləri ilə tanış ola bilərlər. Repoda olan bəzi proyektlərdə əlavə olaraq JavaScript, Sass, ikonlar, Google Fonts və s. istifadə edilmişdir.
+Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektlərini yaza, eyni zamanda HTML və CSS-in dərinlikləri ilə tanış ola bilərlər. Repoda olan bəzi proyektlərdə əlavə olaraq JavaScript, Bootstrap, Sass, ikonlar, Google Fonts və s. istifadə edilmişdir. Təbii olaraq bu repoda sadəcə HTML CSS və onlara yaxın texnologiyalar istifadə edildiyi üçün kopyala yapışdır məntiqindən istifadə edilmişdir. Təbii ki gündəəlik həyatda bu yol müsbət deyil. Lakin öyrənilmə prosesində və ya statik olan veb saytlar üçün kopyala yapışdır məntiqi uyğundur. Çünki bir data alış verişi olmadığında səhivələrin statik olmasında problem yoxdur. Əlbətdə dinamik səhivələrlə daha çox çalışılır lakin qeyd etdiyim kimi öyrənmə prosesində bunu çoxda düşünməyə gərək yoxdur. Önəmli olan bu texnologiyalardan istifadə edərək müəyyən kodlar yaza bilməkdir.
 
 *QEYD: Əvvəllər bu proyektlər ayrı-ayrı repolarda idi, bu səbəbdən repoların sayı çox idi və qarışıqlıq yaradırdı. Buna görə də bütün proyektləri bir repo altında toplamağa qərar verdim.*
 
@@ -22,6 +22,10 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
 * ### MOVIEAPP - filename: movieapp
 
   Bu proyekt HTML5, CSS3 və digər texnologiyalardan istifadə edir. Layihə **responsive** deyil, lakin onu pull edərək responsive dizayn edə bilərsiniz. Bu, responsive dizaynı öyrənmək istəyənlər üçün yaxşı bir məşq ola bilər.
+
+* ### BOOTSTRAP SITE ONE - filename: bootstrapSite_one
+
+Bu proyekt əsasən HTML CSS bootstrap köməkliyi ilə hazırlanıb. 3 səhivədən ibarət bir proyektdir. Daxilindəki səhivələrin hər birində fərqli bir birinin bənzəri olmayan dizaynlar mövcuddur ki bu kodları təkrar işləmək istəyən şəxslərin daha möhkəm biliklərə sahib olmasına zəmin yaradır. Eyni zamanda proyktdə Əlaqə səhivəsində form və məkan məlumatları göstərilmişdir.
 
 ---
 
