@@ -4,12 +4,12 @@ Medium hesabımda məqalələrimlə tanış ola bilərsiniz. [click](https://med
 
 Burada olan proyektlərdən ilhamlanaraq HTML CSS yazan dostlar öz proyetklərini yaza bilər eyni zamanda HTML CSS-in dərinlikləri ilə tanış ola bilər. Repoda olan bəzi proyektlərdə əlavə olaraq JavaScript, Sass,  İconlar, googlefonts v.s istifadə edilmişdir.
 
-* QEYD: Öncədən bunlar əlavə edilmişdi sadəcə ayrı ayrı repolarda olduğları üçün təbii olaraq repoların sayı çox olurdu və qarışıq görünürdü. Bu səbəbdən bir repoda hər birini toplamağ qərarına gəldim. *
+** QEYD: Öncədən bunlar əlavə edilmişdi sadəcə ayrı ayrı repolarda olduğları üçün təbii olaraq repoların sayı çox olurdu və qarışıq görünürdü. Bu səbəbdən bir repoda hər birini toplamağ qərarına gəldim. **
 
 ### REPO IÇƏRİSİNDƏ OLAN PROYEKTLƏR HAQQINDA MƏLUMAT AŞAĞIDA.
 
 --
-### HOTEL SITE proyekti haqqında: filename: hotelSite
+* ### HOTEL SITE proyekti haqqında: filename: hotelSite *
 
 Burada HTML5 CSS3 istifadə edilərək sadə site hazırlanmışdır. Bu proyekt əsasən flexBox və onun özəllikllərini mənimsəmək üçün əlverişlidir. Burada FlexBox-un flex-direction, flex-wrap, justify-content, align-items, align-self, grow, shrink, basis, align-content, gaps, flex margin kimi özəlliklərindən istifadə edilmişdir.
 
