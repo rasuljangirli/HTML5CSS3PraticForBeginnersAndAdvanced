@@ -1,5 +1,5 @@
 ## HTML5 CSS3 
-Medium hesabımda məqalələrimlə tanış ola bilərsiniz. [click](https://medium.com/@rasuljangirli)
+Medium hesabımda məqalələrimlə tanış olmaq üçün. [click et](https://medium.com/@rasuljangirli)
 
 
 Burada olan proyektlərdən ilhamlanaraq HTML CSS yazan dostlar öz proyetklərini yaza bilər eyni zamanda HTML CSS-in dərinlikləri ilə tanış ola bilər. Repoda olan bəzi proyektlərdə əlavə olaraq JavaScript, Sass,  İconlar, googlefonts v.s istifadə edilmişdir.
@@ -24,7 +24,7 @@ Bu proyektdə isə flex grid istifadə edilmişdir.flex grid daha çox flexBox k
 Burada isə HTML5 CSS3 və az bir hissədə JavaScript istifadə edilmişdir. Proyektə kənardan əlavələr edilmişdir bu səbəbdən package.json əlavə edilmişdir və biz içərisində əlavə qurulmuş texnologiyalari görə bilərik. JavaScript Home səhivəsində istifadə edilmişdir və hazır kod olarağ əlavə edilmişdir. Ümumilikdə digərləriinə nisbətdə geniş bir proyektdir və buradaki kodları incələyərək öz proyektlərinizi daha da təkminləşdirə bilərsiniz.
 
 
-* ### MOVIEAPP filename movieapp:
+* ### MOVIEAPP filename: movieapp
 
 Bu proyektdə HTML5 CSS3 istifadə edilmişdir və tərkibindəki texnologiyalar. Bu proyekt responsive deyil. Praktika olaraq git vasitəsi ilə və ya başqa sistemlərlə proyekti pull edərək responsive dizayn edə bilərsiniz ki bu məncə özünü bu tərəfdən inkişaf etdirmək istəyən şəxslər üçün gözəl proyektdir.
 
