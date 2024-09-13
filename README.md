@@ -16,20 +16,20 @@ Burada HTML5 CSS3 istifadə edilərək sadə site hazırlanmışdır. Bu proyekt
 
 * ### SPORT SİTE filename: sportSite
 
-Bu proyektdə isə flex grid istifadə edilmişdir.flex grid daha çox flexBox kimi kiçik Componentlər içərisində deildə ümümi səhivəninin dizaynında istifadə edilmişdir ki grid daha çox bu yöndə əlverişli hesab edilir. Proyekt Responsive dizayn edilmişdir. CSS hissəsində rəng seçimlərinin idarə edilməsi üçün root və var istifadə edilmişdir ki bu proyekti incələmək artıq bir neçə addım atmış dostlar üçün çox gözəl örnəkdir deyə düşünürəm. Proyektin ana səhivəsində menyu hissəsində fərqli seçimlər var sadəcə test üçün home bölməsi işlənmişdir.
+Bu proyektdə flex box ilə yanaşı flex grid istifadə edilmişdir.flex grid daha çox flexBox kimi kiçik Componentlər içərisində deildə ümümi səhivəninin dizaynında istifadə edilmişdir ki grid daha çox bu yöndə əlverişli hesab edilir. Proyekt Responsive dizayn edilmişdir. CSS hissəsində rəng seçimlərinin idarə edilməsi üçün root və var istifadə edilmişdir ki bu proyekti incələmək artıq bir neçə addım atmış dostlar üçün çox gözəl örnəkdir deyə düşünürəm. Eyni zamanda fərdiləşdirilmiş kitabxana formasında özəl classlar hazırlanmışdır bu da gələcək proyetklər üçün əlverişlidir. Proyektin ana səhivəsində menyu hissəsində fərqli seçimlər var sadəcə test üçün home bölməsi işlənmişdir. İnkişaf üçün siz proyekti pull edərək digər səhivələrini işləyə bilərsiniz.
 
 
 * ### FREELANCER SİTE filename: frelancerSite_SassandLess
 
-Burada isə HTML5 CSS3 və az bir hissədə JavaScript istifadə edilmişdir. Proyektə kənardan əlavələr edilmişdir bu səbəbdən package.json əlavə edilmişdir və biz içərisində əlavə qurulmuş texnologiyalari görə bilərik. JavaScript Home səhivəsində istifadə edilmişdir və hazır kod olarağ əlavə edilmişdir. Ümumilikdə digərləriinə nisbətdə geniş bir proyektdir və buradaki kodları incələyərək öz proyektlərinizi daha da təkminləşdirə bilərsiniz.
+Burada isə HTML5 CSS3 və az bir hissədə JavaScript istifadə edilmişdir.(Əgər başlanğıc səviyyədəsinizsə JavaScript hissəsinə çox fikir verməsənizdə olar) Proyektə kənardan əlavələr edilmişdir bu səbəbdən package.json əlavə edilmişdir və biz içərisində əlavə qurulmuş texnologiyalari görə bilərik. JavaScript Home səhivəsində istifadə edilmişdir və hazır kod olarağ əlavə edilmişdir. Ümumilikdə digərləriinə nisbətdə geniş bir proyektdir və buradaki kodları incələyərək öz proyektlərinizi daha da təkminləşdirə bilərsiniz.
 
 
 * ### MOVIEAPP filename: movieapp
 
-Bu proyektdə HTML5 CSS3 istifadə edilmişdir və tərkibindəki texnologiyalar. Bu proyekt responsive deyil. Praktika olaraq git vasitəsi ilə və ya başqa sistemlərlə proyekti pull edərək responsive dizayn edə bilərsiniz ki bu məncə özünü bu tərəfdən inkişaf etdirmək istəyən şəxslər üçün gözəl proyektdir.
+Bu proyektdə HTML5 CSS3  və tərkibindəki texnologiyalardan istifadə edilmişdir. Bu proyekt responsive deyil. Praktika olaraq git vasitəsi ilə və ya başqa sistemlərlə proyekti pull edərək responsive dizayn edə bilərsiniz ki bu məncə özünü bu tərəfdən inkişaf etdirmək istəyən şəxslər üçün gözəl proyektdir.
 
 
-
+Medium hesabımda məqalələrimlə tanış olmaq üçün. [click et](https://medium.com/@rasuljangirli)
 
 
 
