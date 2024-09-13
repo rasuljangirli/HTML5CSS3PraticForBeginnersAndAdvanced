@@ -1,12 +1,10 @@
 ## HTML5 CSS3 
 Medium hesabımda məqalələrimlə tanış ola bilərsiniz. [click](https://medium.com/@rasuljangirli)
 
-Bu repomda sadə və qismən mürəkkəb proyektlər mövcuddur.
 
-Burada olan proyektlərdən ilhamlanaraq HTML CSS yazan dostlar öz proyetklərini yaza bilər eyni zamanda HTML CSS-in dərinlikləri ilə tanış ola bilər. Repoda olan bəzi proyektlərdə əlavə olaraq JavaScript, Sass İconlar, googlefont v.s istifadə edilmişdir.
+Burada olan proyektlərdən ilhamlanaraq HTML CSS yazan dostlar öz proyetklərini yaza bilər eyni zamanda HTML CSS-in dərinlikləri ilə tanış ola bilər. Repoda olan bəzi proyektlərdə əlavə olaraq JavaScript, Sass,  İconlar, googlefonts v.s istifadə edilmişdir.
 
- QEYD: 
-Öncədən bunlar əlavə edilmişdi sadəcə ayrı ayrı repolarda olduğları üçün təbii olaraq repoların sayı çox olurdu və qarışıq görünürdü. Bu səbəbdən bir repoda hər birini toplamağ qərarına gəldim.
+### QEYD: Öncədən bunlar əlavə edilmişdi sadəcə ayrı ayrı repolarda olduğları üçün təbii olaraq repoların sayı çox olurdu və qarışıq görünürdü. Bu səbəbdən bir repoda hər birini toplamağ qərarına gəldim.
 
 ### REPO IÇƏRİSİNDƏ OLAN PROYEKTLƏR HAQQINDA MƏLUMAT AŞAĞIDA.
 
