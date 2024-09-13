@@ -17,3 +17,18 @@ Bu proyektdə isə flex grid istifadə edilmişdir.flex grid daha çox flexBox k
 FREELANCER SİTE proyekti haqqında: filename: frelancerSite_SassandLess
 
 Burada isə HTML5 CSS3 və az bir hissədə JavaScript istifadə edilmişdir. Proyektə kənardan əlavələr edilmişdir bu səbəbdən package.json əlavə edilmişdir və biz içərisində əlavə qurulmuş texnologiyalari görə bilərik. JavaScript Home səhivəsində istifadə edilmişdir və hazır kod olarağ əlavə edilmişdir. Ümumilikdə digərləriinə nisbətdə geniş bir proyektdir və buradaki kodları incələyərək öz proyektlərinizi daha da təkminləşdirə bilərsiniz.
+
+MOVIEAPP proyekti haqqında: filename movieapp:
+
+Bu proyektdə HTML5 CSS3 istifadə edilmişdir və tərkibindəki texnologiyalar. Bu proyekt responsive deyil. praktika olaraq git vasitəsi ilə və ya başqa sistemlərlə proyekti pull edərək responsive dizayn edə bilərsiniz ki bu məncə özünü bu tərəfdən inkişaf etdirmək istəyən şəxslər üçün gözəl proyektdir.
+
+
+
+
+
+
+
+
+
+
+
