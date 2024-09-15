@@ -11,7 +11,7 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
 
   Bu proyekt FlexBox ilə yanaşı **CSS Grid** istifadə edir. **CSS Grid** daha çox ümumi səhifə dizaynında istifadə olunur və bu yönü ilə FlexBox-dan fərqlənir. Proyekt **responsive** dizayn edilmişdir. CSS-də rəng seçimlərinin idarə edilməsi üçün `:root` və `var()` dəyişənlərindən istifadə edilmişdir. Bu layihə, artıq bir neçə addım irəliləmiş istifadəçilər üçün faydalı bir nümunədir. Eyni zamanda fərdiləşdirilmiş kitabxana şəklində xüsusi `class`lar hazırlanmışdır ki, bu da gələcək proyektlər üçün əlverişlidir. Ana səhifədə menyu hissəsində fərqli seçimlər var, lakin test üçün yalnız **home** bölməsi işlənmişdir. Layihəni genişləndirmək üçün onu pull edərək digər səhifələri işləyə bilərsiniz.
 
-  * ### MOVIEAPP - filename: movieapp
+* ### MOVIEAPP - filename: movieapp
 
   Bu proyekt HTML5, CSS3 və digər texnologiyalardan istifadə edir. Layihə **responsive** deyil, lakin onu pull edərək responsive dizayn edə bilərsiniz. Bu, responsive dizaynı öyrənmək istəyənlər üçün yaxşı bir məşq ola bilər.
 
