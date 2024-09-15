@@ -37,7 +37,7 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
 
 * ### BOOTSTRAP Comments - filename: bootstrapComments
 
-  Bu kiçik həcimli bol bootstrap classı istifadə edilmiş bir proyektdir. Təbii olaraq dinamik hazırlanmadığı üçünn təkrar kodlar və kopyala yapışdır məntiqi icra edilmişdir. Gələcəkdə real iş mühitində proyektlərdə bu və ya buna yaxın formada comment səhivələri yazmaq üçün əla praktika proyektidir. Burada əsas məqsəd bootstrapın classlarının funksionallığını praktika edərək görməkdir. Eyni zamanda responsive dizayn üçündə classlar istifadə edilmişdir.
+  Bu kiçik həcimli bol bootstrap classı istifadə edilmiş bir proyektdir. Təbii olaraq dinamik hazırlanmadığı üçün təkrar kodlar və kopyala yapışdır məntiqi istifadə edilmişdir. Gələcəkdə real iş mühitində proyektlərdə bu və ya buna yaxın formada comment səhivələri yazmaq üçün əla praktika proyektidir. Burada əsas məqsəd bootstrapın classlarının funksionallığını praktika edərək görməkdir. Eyni zamanda responsive dizayn üçündə classlar istifadə edilmişdir.
 ---
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
