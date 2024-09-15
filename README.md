@@ -27,7 +27,7 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
   Bu proyektdə HTML5, CSS3  qismən JavaScript və SCSS-dən istifadə edilmişdir (Əgər başlanğıc səviyyədəsinizsə, JavaScript hissəsinə çox diqqət etməyə bilərsiniz). Proyektə kənardan əlavələr edildiyi üçün `package.json` faylı əlavə olunmuşdur və içərisində istifadə edilən texnologiyaları görə bilərsiniz. **JavaScript**, yalnız ana səhifədə istifadə edilmişdir və hazır kod olaraq əlavə edilmişdir. Ümumilikdə bu, geniş bir layihədir və burada olan kodları incələyərək öz layihələrinizi daha da inkişaf etdirə bilərsiniz.
 
 
-  * ### BOOTSTRAP SITE ONE - filename: bootstrapSite_one
+* ### BOOTSTRAP SITE ONE - filename: bootstrapSite_one
 
   Bu layihə əsasən HTML, CSS və Bootstrap köməkliyi ilə hazırlanmışdır. 3 səhifədən ibarət bir layihədir. Səhifələrin hər birində fərqli və bir-birinin bənzəri olmayan dizaynlar mövcuddur ki, bu kodları təkrar işləmək istəyən şəxslərin daha möhkəm biliklərə sahib olmasına zəmin yaradır. Eyni zamanda layihədə əlaqə səhifəsində form və məkan məlumatları göstərilmişdir. Ümumilikdə çox böyük layihə olmasa da, içərisində Bootstrap daha çox istifadə edilmişdir və Bootstrap biliklərinin möhkəmlənməsinə dəstək verə biləcək bir layihədir.
 
