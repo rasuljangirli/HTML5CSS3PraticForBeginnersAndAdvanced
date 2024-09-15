@@ -9,7 +9,7 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
 
 * ### SPORT SİTE - filename: sportSite
 
-  Bu proyekt FlexBox ilə yanaşı **CSS Grid** istifadə edir. **CSS Grid** daha çox ümumi səhifə dizaynında istifadə olunur və bu yönü ilə FlexBox-dan fərqlənir. Proyekt **responsive** dizayn edilmişdir. CSS-də rəng seçimlərinin idarə edilməsi üçün `:root` və `var()` dəyişənlərindən istifadə edilmişdir. Bu layihə, artıq bir neçə addım irəliləmiş istifadəçilər üçün faydalı bir nümunədir. Eyni zamanda fərdiləşdirilmiş kitabxana şəklində xüsusi `class`lar hazırlanmışdır ki, bu da gələcək proyektlər üçün əlverişlidir. Ana səhifədə menyu hissəsində fərqli seçimlər var, lakin test üçün yalnız **home** bölməsi işlənmişdir. Layihəni genişləndirmək üçün onu pull edərək digər səhifələri işləyə bilərsiniz.
+  Bu proyektdə FlexBox ilə yanaşı **CSS Grid** istifadə edilir. **CSS Grid** daha çox ümumi səhifə dizaynında istifadə olunur və bu yönü ilə FlexBox-dan fərqlənir. Proyekt **responsive** dizayn edilmişdir. CSS-də rəng seçimlərinin idarə edilməsi üçün `:root` və `var()` dəyişənlərindən istifadə edilmişdir. Bu layihə, artıq bir neçə addım irəliləmiş istifadəçilər üçün faydalı bir nümunədir. Eyni zamanda fərdiləşdirilmiş kitabxana şəklində xüsusi `class`lar hazırlanmışdır ki, bu da gələcək proyektlər üçün əlverişlidir. Ana səhifədə menyu hissəsində fərqli seçimlər var, lakin test üçün yalnız **home** bölməsi işlənmişdir. Layihəni genişləndirmək üçün onu pull edərək digər səhifələri işləyə bilərsiniz.
 
 
 * ### MOVIEAPP - filename: movieapp
