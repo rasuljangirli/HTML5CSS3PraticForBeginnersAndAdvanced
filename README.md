@@ -35,8 +35,9 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
 
   Layihə Bootstrap əsaslı hazırlanmışdır və əlavə olaraq CSS kodlarından istifadə edilmişdir. Bir məhsul kartı hansı formada olur və içərisində nələrdən istifadə edilir, bunların istifadəsinə aid sadə bir layihədir. Lokalda yerləşdirilən şəkillərdən istifadə edilmişdir görsəl hissəsində.
 
+* ### BOOTSTRAP Comments - filename: bootstrapComments
 
-
+  Bu kiçik həcimli bol bootstrap classı istifadə edilmiş bir proyektdir. Təbii olaraq dinamik hazırlanmadığı üçünn təkrar kodlar və kopyala yapışdır məntiqi icra edilmişdir. Gələcəkdə real iş mühitində proyektlərdə bu və ya buna yaxın formada comment səhivələri yazmaq üçün əla praktika proyektidir. Burada əsas məqsəd bootstrapın classlarının funksionallığını praktika edərək görməkdir. Eyni zamanda responsive dizayn üçündə classlar istifadə edilmişdir.
 ---
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
