@@ -50,7 +50,7 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
 
   Bu layihədə HTML və CSS ilə yanaşı, **Bootstrap** və **SCSS** istifadə edilmişdir. Layihə daxilində məhsul detalları səhifəsi də mövcuddur. Ana menyuda **slayd (slide)** funksionallığı əlavə edilmişdir. **JavaScript** istifadə edilərək məhsulların həm detallı səhifələri, həm də fotolarının geniş şəkildə təqdim edilməsi təmin edilmişdir.
 
-  **Diqqət:** Layihəni GitHub hesabıma yüklədiyim zaman `node_modules` qovluğunu `.gitignore` faylına əlavə etmişəm. Layihəni lokalınızda aktiv etmək üçün terminalda aşağıdakı əmri işlətməyiniz vacibdir:
+  **Diqqət:** Layihəni GitHub hesabıma yüklədiyim zaman `node_modules` qovluğunu `.gitignore` faylına əlavə etmişəm. Layihəni lokalınızda aktiv etmək üçün terminalda aşağıdakı əmri icra etməyiniz vacibdir:
 
   ```cmd
   npm install
