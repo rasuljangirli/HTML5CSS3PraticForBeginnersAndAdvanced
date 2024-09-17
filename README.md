@@ -38,6 +38,11 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
 * ### BOOTSTRAP Comments - filename: bootstrapComments
 
   Bu kiçik həcimli bol bootstrap classı istifadə edilmiş bir proyektdir. Təbii olaraq dinamik hazırlanmadığı üçün təkrar kodlar və kopyala yapışdır məntiqi istifadə edilmişdir. Gələcəkdə real iş mühitində proyektlərdə bu və ya buna yaxın formada comment səhivələri yazmaq üçün əla praktika proyektidir. Burada əsas məqsəd bootstrapın classlarının funksionallığını praktika edərək görməkdir. Eyni zamanda responsive dizayn üçündə classlar istifadə edilmişdir.
+
+* ### BOOTSTRAP Filter - filename: bootstrapFilter
+
+  Bu proyekt ümumilikdə sadə filtirləmə üçün isə orta dərəcəlidir. Burada yenə bootstrapdan istifadə edilmişdir əlavə olaraq isə Css kodları yazılmışdır. Örnək olaraq bir satış səhivəsinin filtir hissəsinə bənzədilməyə çalışılıb. Lakin əsas məqsəd tam olaraq hər hansı bir saytın filtirləməsini hazırlamaq deil, Burada əsas məqsəd bootstrap istifadə edərək necə filtirləmə hissəsini hazırlaya biləcəyimizi öyrənməkdir. Təbii olaraq əlavələr və ya azaltmalar edə bilərik.
+
 ---
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
