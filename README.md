@@ -46,6 +46,19 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
   Təbii olaraq əlavələr və ya azaltmalar edə bilərik. Eyni yolla biz başqa formalı accordion menulərdə hazırlaya bilərik. Yəni istifadə olunan Bootstrap classları bizə çox şaxəli imkanlar təqdim edir.
 
 
+* ### BOOTSTRAP E-Shopping - filename: bootstrapShoppingSite
+
+  Bu layihədə HTML və CSS ilə yanaşı, **Bootstrap** və **SCSS** istifadə edilmişdir. Layihə daxilində məhsul detalları səhifəsi də mövcuddur. Ana menyuda **slayd (slide)** funksionallığı əlavə edilmişdir. **JavaScript** istifadə edilərək məhsulların həm detallı səhifələri, həm də fotolarının geniş şəkildə təqdim edilməsi təmin edilmişdir.
+
+  **Diqqət:** Layihəni GitHub hesabıma yüklədiyim zaman `node_modules` qovluğunu `.gitignore` faylına əlavə etmişəm. Layihəni lokalınızda aktiv etmək üçün terminalda aşağıdakı əmri işlətməyiniz vacibdir:
+
+  ```cmd
+  npm install
+  ```
+  Bu əmrin icrası, `package.json` faylında göstərilən asılılıqları layihəyə əlavə edəcəkdir. Əks halda, bəzi funksionallıqlar deaktiv qala bilər. Məsələn, slaydın avtomatik dövr etməsi və ya əl ilə dəyişdirilməsi kimi xüsusiyyətlər işləməyə bilər.
+
+
+
 ---
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
