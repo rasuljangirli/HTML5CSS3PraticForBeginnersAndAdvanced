@@ -41,7 +41,10 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
 
 * ### BOOTSTRAP Filter - filename: bootstrapFilter
 
-  Bu proyekt ümumilikdə sadə, filtirləmə üçün isə orta dərəcəlidir. Burada yenə bootstrapdan istifadə edilmişdir əlavə olaraq isə Css kodları yazılmışdır. Örnək olaraq bir satış səhivəsinin filtir hissəsinə bənzədilməyə çalışılıb. Lakin əsas məqsəd tam olaraq hər hansı bir saytın filtirləməsini hazırlamaq deil, Burada əsas məqsəd bootstrap istifadə edərək necə filtirləmə hissəsini hazırlaya biləcəyimizi öyrənməkdir. Təbii olaraq əlavələr və ya azaltmalar edə bilərik.Eyni yolla biz başqa formalı accardion menularda hazırlaya bilərik. Yəni istifadə olunan bootstrap classları bizə çox şaxəli imkanlar təqdim edir.
+  Bu proyekt ümumilikdə sadə, filtirləmə üçün isə orta dərəcəlidir. Burada yenə Bootstrap-dan istifadə edilmişdir, əlavə olaraq isə CSS kodları yazılmışdır. Örnək olaraq bir satış səhifəsinin filtr hissəsinə bənzədilməyə çalışılıb. Lakin əsas məqsəd tam olaraq hər hansı bir saytın filtirləməsini hazırlamaq deyil. Burada əsas məqsəd Bootstrap istifadə edərək necə filtreleme hissəsini hazırlaya biləcəyimizi öyrənməkdir. 
+
+  Təbii olaraq əlavələr və ya azaltmalar edə bilərik. Eyni yolla biz başqa formalı accordion menulərdə hazırlaya bilərik. Yəni istifadə olunan Bootstrap classları bizə çox şaxəli imkanlar təqdim edir.
+
 
 ---
 
