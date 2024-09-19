@@ -60,7 +60,7 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
 
 * ### Movie App Only HTML - filename: movieAppOnlyHTML
 
-  Bu layihə çox əvvəlki dövrlərə aiddir. Yalnız HTML istifadə edilmişdir və heç bir əlavə kod yazılmamışdır. HTML ilə yeni başlayan dostlar üçün əla bir təcrübədir. Səhifələr yalnız linklər vasitəsilə yönləndirilmişdir. CSS və digər texnologiyalardan istifadə edilməmişdir.
+  Bu layihə çox əvvəlki dövrlərə aiddir. Yalnız HTML istifadə edilmişdir. HTML ilə yeni başlayan dostlar üçün əla bir təcrübədir. Səhifələr yalnız linklər vasitəsilə yönləndirilmişdir. CSS və digər texnologiyalardan istifadə edilməmişdir.
 
   **Əsas Xüsusiyyətlər:**
   - Yalnız HTML ilə hazırlanmışdır.
