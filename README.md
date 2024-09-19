@@ -62,7 +62,7 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
 
   Bu layihə çox əvvəlki dövrlərə aiddir. Yalnız HTML istifadə edilmişdir və heç bir əlavə kod yazılmamışdır. HTML ilə yeni başlayan dostlar üçün əla bir təcrübədir. Səhifələr yalnız linklər vasitəsilə yönləndirilmişdir. CSS və digər texnologiyalardan istifadə edilməmişdir.
 
- # Əsas Xüsusiyyətlər:
+  **Əsas Xüsusiyyətlər:**
   - Yalnız HTML ilə hazırlanmışdır.
   - Linklər vasitəsilə səhifələr arasında yönləndirmə var.
   - Heç bir CSS və ya JavaScript istifadə edilməmişdir.
