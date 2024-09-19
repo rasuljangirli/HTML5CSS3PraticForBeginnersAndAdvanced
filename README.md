@@ -70,7 +70,9 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
   Layihə əvvəllər yazdığım kodları araşdırarkən qarşıma çıxdı və nostalji hissi yaşatdı. Əminəm ki, bu repoya baxan və yeni başlayan dostlar da özlərini inkişaf etdirərək gələcəkdə bu hissləri yaşayacaqlar.
 
 
-
+* ### Cinema Reservation - filename: cinemaReservation
+  
+  Bu layihəmdə html css ilə bərabər javascript istifadə edilmişdir. Funksionallığ tərəfindən Javascript proyektdidə deyə bilərik lakin html və css -də aktiv istifadə edilmişdir.
 
 
 
