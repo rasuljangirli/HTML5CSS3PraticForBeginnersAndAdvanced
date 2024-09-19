@@ -58,6 +58,21 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
   Bu əmrin icrası, `package.json` faylında göstərilən asılılıqları layihəyə əlavə edəcəkdir. Əks halda, bəzi funksionallıqlar deaktiv qala bilər. Məsələn, slaydın avtomatik dövr etməsi və ya əl ilə dəyişdirilməsi kimi xüsusiyyətlər işləməyə bilər.
 
 
+* ### Movie App Only HTML - filename: movieAppOnlyHTML
+
+  Bu layihə çox əvvəlki dövrlərə aiddir. Yalnız HTML istifadə edilmişdir və heç bir əlavə kod yazılmamışdır. HTML ilə yeni başlayan dostlar üçün əla bir təcrübədir. Səhifələr yalnız linklər vasitəsilə yönləndirilmişdir. CSS və digər texnologiyalardan istifadə edilməmişdir.
+
+ # Əsas Xüsusiyyətlər:
+  - Yalnız HTML ilə hazırlanmışdır.
+  - Linklər vasitəsilə səhifələr arasında yönləndirmə var.
+  - Heç bir CSS və ya JavaScript istifadə edilməmişdir.
+
+  Bu layihə əvvəllər yazdığım kodları araşdırarkən qarşıma çıxdı və nostalji hissi yaşatdı. Əminəm ki, bu repoya baxan və yeni başlayan dostlar da özlərini inkişaf etdirərək gələcəkdə bu hissləri yaşayacaqlar.
+
+
+
+
+
 
 ---
 
