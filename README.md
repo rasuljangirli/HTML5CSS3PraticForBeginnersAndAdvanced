@@ -72,9 +72,9 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
 
 * ### Cinema Reservation - filename: cinemaReservation
   
-  Bu layihəmdə html css ilə bərabər javascript istifadə edilmişdir. Funksionallığ tərəfindən Javascript proyektdidə deyə bilərik lakin html və css -də aktiv istifadə edilmişdir.
+  Bu layihədə **HTML**, **CSS** və **JavaScript** istifadə edilmişdir. Funksionallıq baxımından əsas hissə **JavaScript** ilə təmin olunmuşdur, lakin **HTML** və **CSS** də aktiv şəkildə istifadə olunmuşdur. Proyekt, sinema rezervasiyası ilə bağlıdır və 3 fərqli kateqoriyada film seçimi imkanı təqdim edir. Hər kateqoriya üçün qiymətlər, bilet sayına görə avtomatik olaraq dəyişir.
 
-
+  Ümumiyyətlə, bu layihə həm **HTML**, **CSS**, həm də **JavaScript** ilə işləməyi inkişaf etdirmək üçün əlverişli bir təcrübədir.
 
 ---
 
