@@ -67,7 +67,7 @@ Burada olan proyektlərdən ilhamlanaraq HTML və CSS yazan dostlar öz proyektl
   - Linklər vasitəsilə səhifələr arasında yönləndirmə var.
   - Heç bir CSS və ya JavaScript istifadə edilməmişdir.
 
-  Bu layihə əvvəllər yazdığım kodları araşdırarkən qarşıma çıxdı və nostalji hissi yaşatdı. Əminəm ki, bu repoya baxan və yeni başlayan dostlar da özlərini inkişaf etdirərək gələcəkdə bu hissləri yaşayacaqlar.
+  Layihə əvvəllər yazdığım kodları araşdırarkən qarşıma çıxdı və nostalji hissi yaşatdı. Əminəm ki, bu repoya baxan və yeni başlayan dostlar da özlərini inkişaf etdirərək gələcəkdə bu hissləri yaşayacaqlar.
 
 
 
