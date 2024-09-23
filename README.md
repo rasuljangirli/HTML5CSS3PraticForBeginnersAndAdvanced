@@ -76,6 +76,16 @@ Burada olan proyektlərdən ilhamlanaraq **HTML** və **CSS** yazan dostlar öz 
 
   Ümumiyyətlə, bu layihə həm **HTML**, **CSS**, həm də **JavaScript** ilə işləməyi inkişaf etdirmək üçün əlverişli bir təcrübədir.
 
+
+* ### Drawing App - filename: drawingApp
+
+  Bu layihədə **HTML**, **CSS** və **JavaScript** aktiv şəkildə istifadə edilmişdir. Layihədə əsasən **HTML** elementi olan `canvas` ön plana çıxır, çünki əsas iş sahəmiz məhz onun üzərindədir və bizə əlverişli şərait yaratmışdır. **CSS** ümumilikdə daha praktik və çox istifadə edilmişdir. Proyekti araşdırma etdikdən sonra özünüz kodları yazmağı yoxlaya bilərsiniz. İlk başlarda digər layihələrə nisbətdə daha qarışıq gələ bilər. Lakin incələmə yolu ilə daha da effektli işlər yaratmaq mümkündür.
+
+
+
+
+
+
 ---
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
