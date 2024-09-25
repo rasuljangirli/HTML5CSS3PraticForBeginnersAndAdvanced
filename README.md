@@ -82,7 +82,7 @@ Burada olan proyektlərdən ilhamlanaraq **HTML** və **CSS** yazan dostlar öz 
   Bu layihədə **HTML**, **CSS** və **JavaScript** aktiv şəkildə istifadə edilmişdir. Layihədə əsasən **HTML** elementi olan `canvas` ön plana çıxır, çünki əsas iş sahəmiz məhz onun üzərindədir və bizə əlverişli şərait yaratmışdır. **CSS** ümumilikdə daha praktik və çox istifadə edilmişdir. Proyekti araşdırma etdikdən sonra özünüz kodları yazmağı yoxlaya bilərsiniz. İlk başlarda digər layihələrə nisbətdə daha qarışıq gələ bilər. Lakin incələmə yolu ilə daha da effektli işlər yaratmaq mümkündür.
 
 
-* ### Menu Right to Left - filename: menu
+* ### Menu Right to Left - filename: menuRightToLeft
 
   **HTML**, **CSS** və **JavaScript** istifadə edilərək sadə, responsive dizaynda bir menyu hazırlanmışdır. **CSS** daha çox istifadə olunmuşdur. **JavaScript** istifadəsi sadəcə klikləmə funksiyalarında və display dəyişimlərində istifadə edilmişdir. Ümumilikdə **CSS**-in bir çox mövzularına toxunulmuş kiçik həcmli layihədir. Menyu hazır olduğu üçün davamını inkişaf etdirərək əla bir layihə yaratmaq olar.
 
