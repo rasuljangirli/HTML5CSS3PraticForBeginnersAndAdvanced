@@ -82,6 +82,9 @@ Burada olan proyektlərdən ilhamlanaraq **HTML** və **CSS** yazan dostlar öz 
   Bu layihədə **HTML**, **CSS** və **JavaScript** aktiv şəkildə istifadə edilmişdir. Layihədə əsasən **HTML** elementi olan `canvas` ön plana çıxır, çünki əsas iş sahəmiz məhz onun üzərindədir və bizə əlverişli şərait yaratmışdır. **CSS** ümumilikdə daha praktik və çox istifadə edilmişdir. Proyekti araşdırma etdikdən sonra özünüz kodları yazmağı yoxlaya bilərsiniz. İlk başlarda digər layihələrə nisbətdə daha qarışıq gələ bilər. Lakin incələmə yolu ilə daha da effektli işlər yaratmaq mümkündür.
 
 
+* ### Drawing App - filename: drawingApp
+
+  **HTML**, **CSS** və **JavaScript** Istifadə edilərək sadə responsive dizaynda bir menu hazırlanmışdır. Css daha çox istifadə edilmişdir. Javascript istifadəsi sadəcə clickləmədə display dəyişimində istifadə edilmişdir. ümumilikdə Cssin bir çox mövzularına toxunulmuş kiçik həcimli proyektdir. Menu hazır olduğu üçün 
 
 
 
