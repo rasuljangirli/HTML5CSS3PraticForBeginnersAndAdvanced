@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>menu from right left</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+</head>
+
+<body>
+    <nav>
+        <ul class="sidebar">
+            <li onclick=hideSidebar()><a href="#"><span class="material-symbols-outlined">
+                        close
+                    </span></a></li>
+            <li><a href="">Home</a></li>
+            <li><a href="">Blog</a></li>
+            <li><a href="">Product</a></li>
+            <li><a href="">About</a></li>
+            <li><a href="">Contact</a></li>
+        </ul>
+        <ul>
+            <li><a href="">RCode</a></li>
+            <li class="hideOnMobile"><a href="">Home</a></li>
+            <li class="hideOnMobile"><a href="">Blog</a></li>
+            <li class="hideOnMobile"><a href="">Product</a></li>
+            <li class="hideOnMobile"><a href="">About</a></li>
+            <li class="hideOnMobile"><a href="">Contact</a></li>
+            <li onclick=showSidebar() class="hideLarge"><a href="#"><span class="material-symbols-outlined">
+                        menu
+                    </span></a></li>
+
+        </ul>
+    </nav>
+
+    <script src="app.js">
+
+    </script>
+</body>
+
+</html>

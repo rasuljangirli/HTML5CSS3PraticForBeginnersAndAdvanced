@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    min-height: 100vh;
+    background-image: url(/img/anas-alshanti-feXpdV001o4-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 999px;
+}
+nav  {
+    background-color: white;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    width: 100%;
+}
+nav ul {
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+nav li {
+    height: 50px;
+
+}
+nav a {
+    height: 100%;
+    padding: 0 30px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: black;
+}
+nav a:hover {
+    background-color: lightgray;
+}
+nav li:first-child {
+    margin-right: auto;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 300px;
+    z-index: 99;
+    box-shadow: -10px 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    display: none;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-size: 2rem;
+}
+.sidebar li {
+    width: 100%;
+}
+.sidebar a {
+    width: 100%;
+}
+@media(max-width:800px) {
+    .hideOnMobile {
+        display: none;
+    }
+}
+@media(min-width:800px) {
+    .hideLarge {
+        display: none;
+    }
+}
+@media(max-width:400px) {
+    .sidebar {
+        width: 100%;
+    }
+}
