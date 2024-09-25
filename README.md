@@ -84,7 +84,7 @@ Burada olan proyektlərdən ilhamlanaraq **HTML** və **CSS** yazan dostlar öz 
 
 * ### Drawing App - filename: drawingApp
 
-  **HTML**, **CSS** və **JavaScript** Istifadə edilərək sadə responsive dizaynda bir menu hazırlanmışdır. Css daha çox istifadə edilmişdir. Javascript istifadəsi sadəcə clickləmədə display dəyişimində istifadə edilmişdir. ümumilikdə Cssin bir çox mövzularına toxunulmuş kiçik həcimli proyektdir. Menu hazır olduğu üçün ardını
+  **HTML**, **CSS** və **JavaScript** Istifadə edilərək sadə responsive dizaynda bir menu hazırlanmışdır. Css daha çox istifadə edilmişdir. Javascript istifadəsi sadəcə clickləmədə display dəyişimində istifadə edilmişdir. ümumilikdə Cssin bir çox mövzularına toxunulmuş kiçik həcimli proyektdir. Menu hazır olduğu üçün ardını yazarağ əla bir proyekt əyaratmağ
 
 
 
