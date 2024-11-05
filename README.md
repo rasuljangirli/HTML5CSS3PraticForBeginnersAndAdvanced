@@ -1,4 +1,4 @@
-## HTML5 CSS3 başlanğıc səviyyədən irəli səviyyəyə qədər 
+## HTML5 CSS3 başlanğıc səviyyədən irəli səviyyəyə qədər
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
 
 Burada olan proyektlərdən ilhamlanaraq **HTML** və **CSS** yazan dostlar öz proyektlərini yaza, eyni zamanda **HTML** və **CSS**-in dərinlikləri ilə tanış ola bilərlər. Repoda olan bəzi proyektlərdə əlavə olaraq **JavaScript**, **Bootstrap**, **Sass**, **ikonlar**, **Google Fonts** və s. istifadə edilmişdir. Bu repoda sadəcə **HTML** **CSS** və onlara yaxın texnologiyalar istifadə edildiyi üçün kopyala yapışdır məntiqindən istifadə edilmişdir. Təbii ki gündəlik həyatda iş mühitində bu yol müsbət deyil. Lakin öyrənmə prosesində və ya statik olan veb saytlar üçün kopyala yapışdır məntiqi uyğundur. Çünki bir data alış verişi olmadığı üçün səhivələrin statik olmasında problem yoxdur. Əlbətdə dinamik səhivələrlə daha çox çalışılır lakin qeyd etdiyim kimi öyrənmə prosesində bunu çoxda düşünməyə gərək yoxdur. Önəmli olan bu texnologiyalardan istifadə edərək müəyyən kodlar yaza bilməkdir.
