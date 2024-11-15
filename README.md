@@ -93,4 +93,5 @@ Burada olan proyektlərdən ilhamlanaraq **HTML** və **CSS** yazan dostlar öz 
 ---
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
+
 Youtube kanalımda dərs videolarından yararlanmağ üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
