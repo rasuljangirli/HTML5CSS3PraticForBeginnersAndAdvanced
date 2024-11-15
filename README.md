@@ -1,5 +1,5 @@
 ## HTML5 CSS3 başlanğıc səviyyədən irəli səviyyəyə  qədər
-Youtube kanalımda dərs videolarından yararlanmağ üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
+Youtube kanalımda dərs videolarından yararlanmaq üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
 
@@ -92,6 +92,6 @@ Burada olan proyektlərdən ilhamlanaraq **HTML** və **CSS** yazan dostlar öz 
 
 ---
 
-Youtube kanalımda dərs videolarından yararlanmağ üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
+Youtube kanalımda dərs videolarından yararlanmaq üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
