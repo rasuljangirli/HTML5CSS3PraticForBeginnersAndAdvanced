@@ -1,4 +1,4 @@
-## HTML5 CSS3 başlanğıc səviyyədən irəli səviyyəyə  qədər
+## HTML5 CSS3 başlanğıc səviyyədən irəli səviyyəyə  qədər 
 Youtube kanalımda dərs videolarından yararlanmaq üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
