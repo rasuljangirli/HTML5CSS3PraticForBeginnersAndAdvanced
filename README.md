@@ -89,7 +89,6 @@ Burada olan proyektlərdən ilhamlanaraq **HTML** və **CSS** yazan dostlar öz 
   **HTML**, **CSS** və **JavaScript** istifadə edilərək sadə, responsive dizaynda bir menyu hazırlanmışdır. **CSS** daha çox istifadə olunmuşdur. **JavaScript** istifadəsi sadəcə klikləmə funksiyalarında və display dəyişimlərində istifadə edilmişdir. Ümumilikdə **CSS**-in bir çox mövzularına toxunulmuş kiçik həcmli layihədir. Menyu hazır olduğu üçün davamını inkişaf etdirərək əla bir layihə yaratmaq olar.
 
 
-
 ---
 
 Youtube kanalımda dərs videolarından yararlanmaq üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
